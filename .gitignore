@@ -1,0 +1,14 @@
+# Object files
+*.o
+
+# Executable file
+server_app
+
+# Temporary files from editors and system
+*~
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
